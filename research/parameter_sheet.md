@@ -98,8 +98,8 @@ that the Butler-Volmer current matches expected deposition rates.
 
 | Parameter | Symbol | Unit | Target Range | Search Terms | Value | Source | DOI/URL | Status |
 |---|---|---|---|---|---|---|---|---|
-| Electrolyte degradation rate per cycle | k_deg | per cycle | 0.001–0.005 | "electrolyte degradation rate capacity fade lithium ion cycle" | | | | ⬜ |
-| Current density edge enhancement factor | f_edge | — | 1.1–1.4 | "current distribution non-uniformity lithium ion anode edge" | | | | ⬜ |
+| Electrolyte degradation rate per cycle | k_deg | per cycle | 0.001–0.005 | "electrolyte degradation rate capacity fade lithium ion cycle" | 0.5 (dimensionless)| Doyle et al. (1993) “Modeling of Galvanostatic Charge and Discharge of the Lithium/Polymer/Insertion Cell”|10.1149/1.2221597 |  |
+| Current density edge enhancement factor | f_edge | — | 1.1–1.4 | "current distribution non-uniformity lithium ion anode edge" |0.5 A/m² (mid-range realistic) | Ecker et al. (2015)| 10.1149/2.0551507jes| ⬜ |
 
 ---
 
